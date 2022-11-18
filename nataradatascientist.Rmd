@@ -1,0 +1,55 @@
+---
+title: "Becoming a Data Scientist"
+subtitle: "STT2860 Project 01 Fall 2022"
+author: "Natara Dulaney"
+date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
+output: 
+  html_document: 
+    theme: yeti
+    highlight: textmate
+---
+<hr>
+
+**Q1: What is the name of the person interviewed?**
+
+ANSWER:Andrew Therriault
+
+**Q2: Why did you choose the particular interview you did?**
+
+ANSWER: It looked interesting because he works for the DNC.
+
+**Q3: Does the person consider themselves a data scientist?**
+
+ANSWER: Yes.
+
+**Q4: What is their formal and self-taught education in data science?**
+
+ANSWER: Durring his undergraduate degree, Therriault only took the required math and science classes durring his time as a political science major. After graduating he worked within the 2004 presidential campaign. After the election, he went on to get a PhD in Political Data Science focusing on a combination of economics and statistics with a political science concentration. 
+
+**Q5: What has been their career path? Did they start off in data science?**
+
+ANSWER: He did not begin his career in data science, but in political science. He went on to specialized in the quantitative subfield within political science.
+
+**Q6: What programs/technologies to they use when working in data science?**
+
+ANSWER: He mostly uses stat but has done some projects in R.
+
+**Q7: What is one interesting (to you) data science problem they have worked on?**
+
+ANSWER: He did his dissertation that focused on political ads and how it influences public opinion. He mapped his data with panel surveys.
+
+Therrialt's dissertation delved into how political ads can influence the opinions of the public, which he mapped with panel surveys
+
+**Q8: Are there any specific pieces of advice they gave that inspire/resonate with you?**
+
+ANSWER: One thing he mentioned was focusing on a niche area within data science. If you just go general data science, sure you have a lot of broad skills. If you concentrate in health science, political science, business, you can really get more out of it by having a deeper knowledge within your subfield.
+**Q9: Was there anything that surprised you or that you particularly identified with?**
+
+ANSWER: When discussing what he looks for in a potential hire, he explains that he wants someone who can learn what they dont know. Because the field of data science is ever evolving, it is essential that you dont get stuck in your ways, but can evolve with it, using new technolies.
+
+**Q10: Q10: How did this person path differ from the previous interview you watched?**
+
+ANSWER: They are in very different subspecialty. My previous interview was about a guy who started in cognitive science and went into AI and machine learning. Whereas this guy started in political science, and gained data science knowledge that he can apply to the field. 
+
+<hr>
+
